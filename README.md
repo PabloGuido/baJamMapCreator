@@ -4,4 +4,4 @@
 
 2 - Abrir el archivo game.project para levantar el proyecto con el motor.
 
-<img src="https://economipedia.com/wp-content/uploads/test-de-estr%C3%A9s.png" alt="Alt text" title="Optional title">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dwbvj7bkLS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
